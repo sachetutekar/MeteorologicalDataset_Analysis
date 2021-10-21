@@ -34,9 +34,11 @@ Then, we will convert the Timezone to +00:00 UTC.
 ### Step 4: Plotting of data 
 
 Firstly, we will see for a specific month as a example
+
 ![image](https://user-images.githubusercontent.com/82140149/138294155-7951b026-893f-4472-8a19-8a7681343981.png)
 
 Secondly, we will plot the whole dataset for all months(together)
+
 ![image](https://user-images.githubusercontent.com/82140149/138295093-241c39c7-eda0-4a6c-b0e3-e848c824eb27.png)
 
 Then, we will analyse and plot monthwise
