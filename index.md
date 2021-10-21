@@ -8,11 +8,11 @@ In this blog, we will discuss a [Data Analysis](https://www.kaggle.com/muthuj7/w
 ### Following is the Hypothesis for the analysis.
 The Hypothesis means we need to find whether the average Apparent temperature for the month of a month say April starting from 2006 to 2016 and the average humidity for the same period have increased or not. This monthly analysis has to be done for all 12 months over the 10 year period. So you are basically resampling your data from hourly to monthly, then comparing the same month over the 10 year period. Support your analysis by appropriate visualizations using matplotlib and / or seaborn library.
 
-### Markdown
+### Step 1: Importing of libraries and Dataset
 
 
 ```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/82140149/138288494-3fc101b2-9cd6-4969-963b-33f55a0a82b9.png)
 
 
 ```
