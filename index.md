@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```markdown
 Syntax highlighted code block
 
-#**Performing Analysis Of Meteorological Data**
+#Performing Analysis Of Meteorological Data
 ## Header 2
 ### Header 3
 
