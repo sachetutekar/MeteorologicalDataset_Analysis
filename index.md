@@ -10,6 +10,7 @@ The Hypothesis means we need to find whether the average Apparent temperature fo
 
 ### Step 1: Importing of libraries and Dataset
 
+![image](https://user-images.githubusercontent.com/82140149/138288634-2a17f84e-571d-47a2-926c-3400a79e838b.png)
 
 ```markdown
 ![image](https://user-images.githubusercontent.com/82140149/138288494-3fc101b2-9cd6-4969-963b-33f55a0a82b9.png)
