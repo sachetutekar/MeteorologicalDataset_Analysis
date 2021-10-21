@@ -15,9 +15,22 @@ The Hypothesis means we need to find whether the average Apparent temperature fo
 ![image](https://user-images.githubusercontent.com/82140149/138288956-f85b8699-6f38-4368-8695-5fc125acffbf.png)
 
 
-```markdown
+### Step 2: Looking at the dataset.
+![image](https://user-images.githubusercontent.com/82140149/138292836-68c40769-6a2a-4566-8a39-f9c574299532.png)
 
-```
+
+### Step 3: Cleaning Dataset
+In this step, we will prepare our data for the plotting for which we will first drop the unwanted columns(all except temperature and humidity).
+
+![image](https://user-images.githubusercontent.com/82140149/138293153-2139fd6d-2164-4313-bd3b-5839066595ad.png)
+
+![image](https://user-images.githubusercontent.com/82140149/138293319-edd786d7-0276-488d-83c3-99dfc85402ad.png)
+
+Then, we will convert the Timezone to +00:00 UTC.
+
+![image](https://user-images.githubusercontent.com/82140149/138293558-5cb38b47-d886-41f3-828a-eaaba1cb10f4.png)
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
