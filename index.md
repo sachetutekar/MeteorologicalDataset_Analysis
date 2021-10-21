@@ -1,6 +1,6 @@
 ## Performing Analysis Of Meteorological Data
 
-You can use the [editor on GitHub](https://github.com/sachetutekar/MeteorologicalDataset_Analysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In this blog we will discuss about a Data Analysis which is based on the following [dataset](https://drive.google.com/open?id=1ScF_1a-bkHi1qe8Rn78uxK6_5QwUD9Bu).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
