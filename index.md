@@ -12,9 +12,10 @@ The Hypothesis means we need to find whether the average Apparent temperature fo
 
 ![image](https://user-images.githubusercontent.com/82140149/138288634-2a17f84e-571d-47a2-926c-3400a79e838b.png)
 
-```markdown
-![image](https://user-images.githubusercontent.com/82140149/138288494-3fc101b2-9cd6-4969-963b-33f55a0a82b9.png)
+![image](https://user-images.githubusercontent.com/82140149/138288956-f85b8699-6f38-4368-8695-5fc125acffbf.png)
 
+
+```markdown
 
 ```
 
