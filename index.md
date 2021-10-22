@@ -44,6 +44,67 @@ Secondly, we will plot the whole dataset for all months(together)
 Then, we will analyse and plot monthwise
 
 
+January
+
+![image](https://user-images.githubusercontent.com/82140149/138403788-2847ef6c-1c25-40a7-9b4b-e68738ff9f4a.png)
+
+
+February
+
+![image](https://user-images.githubusercontent.com/82140149/138403863-17aa20f5-440f-478c-bd2b-6ffb0ace5b0f.png)
+
+
+March
+
+![image](https://user-images.githubusercontent.com/82140149/138403984-d3b7f439-7a34-4032-a8a0-7aa5f39d50ef.png)
+
+
+April
+
+![image](https://user-images.githubusercontent.com/82140149/138404075-6aa3c5d0-3f60-48ec-b612-d4701403a5e7.png)
+
+
+May
+
+![image](https://user-images.githubusercontent.com/82140149/138404113-b0d46561-abec-47f9-b8b3-b9032138612b.png)
+
+
+June
+
+![image](https://user-images.githubusercontent.com/82140149/138404181-22a45741-0270-4542-928a-786c1b56f641.png)
+
+
+July
+
+![image](https://user-images.githubusercontent.com/82140149/138404295-1bf20f2f-99b6-4022-b0b4-b69551be8bbc.png)
+
+
+August
+
+![image](https://user-images.githubusercontent.com/82140149/138404399-f2490200-0ec7-4e18-ab27-216f2fd1e434.png)
+
+
+September
+
+![image](https://user-images.githubusercontent.com/82140149/138404598-80ea4335-8062-404f-aea3-c8a7289a17c1.png)
+
+
+October
+
+![image](https://user-images.githubusercontent.com/82140149/138404680-3f4d61dd-6c9b-4623-99f2-8322ceff6d7f.png)
+
+
+November
+
+![image](https://user-images.githubusercontent.com/82140149/138404809-846d0a6c-7854-4617-9ec9-0a934cababf3.png)
+
+
+December
+
+![image](https://user-images.githubusercontent.com/82140149/138404914-168d2070-ad41-4783-a8c4-ba8fcd79da4c.png)
+
+
+
 
 ### Jekyll Themes
 
