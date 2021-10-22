@@ -114,4 +114,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Connect me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/sachet-utekar-b23728205/)
 
-You can mail me on: [E-Mail](Sachet.Utekar@gmail.com)
+You can reach me out via: [E-Mail](Sachet.Utekar@gmail.com)
