@@ -108,10 +108,6 @@ Then, we will analyse and plot monthwise
 ### Anlaysis : From the month of April to the month of August, there is slightly change in temperature but nearly no change in humidity for the 10 years(2006-2010). Whereas for the month from September to March there is a vast change in the temperature but again humidity remains unchanged.
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sachetutekar/MeteorologicalDataset_Analysis/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
 Connect me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/sachet-utekar-b23728205/)
